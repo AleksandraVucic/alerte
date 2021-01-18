@@ -3,17 +3,17 @@
 ##  Alerte à la poste
 
 Utilisation du python a lire un long fichier log et chercher des informations.
+
 Compétences visées
+
 C2. Acquérir des données, les combiner et les structurer en données propres en vue de leur intégration dans la structure de la base de données
 
 Contexte du projet
 
 On suspecte des connexions depuis différentes dsi de laposte vers des ip reconnues malveillantes.
-
 Dans le fichier connexion.log, on a enregistré les ip qui ont été accédées depuis des ordinateurs
 de la poste entre 2015 et 2019. Sur chaque ligne on lit l’ip qui a été accédée, le login de la 
 personne et la date/heure de connexion.
-
 A vous de jouer pour retrouver le/les hackers (blackhat) infiltrés.
 
 Q1. Parcourez le fichier pour trouver la liste de tous les utilisateurs qui se sont connectés,
