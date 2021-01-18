@@ -7,6 +7,7 @@ Compétences visées
 C2. Acquérir des données, les combiner et les structurer en données propres en vue de leur intégration dans la structure de la base de données
 
 Contexte du projet
+
 On suspecte des connexions depuis différentes dsi de laposte vers des ip reconnues malveillantes.
 
 Dans le fichier connexion.log, on a enregistré les ip qui ont été accédées depuis des ordinateurs
