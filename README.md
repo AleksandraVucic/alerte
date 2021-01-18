@@ -1,8 +1,10 @@
 ![anssiposte](anssiposte.jpg)
 
-Utilisation du python a lire un long fichier log et chercher des informations.
-
 ##  Alerte à la poste
+
+Utilisation du python a lire un long fichier log et chercher des informations.
+Compétences visées
+C2. Acquérir des données, les combiner et les structurer en données propres en vue de leur intégration dans la structure de la base de données
 
 Contexte du projet
 On suspecte des connexions depuis différentes dsi de laposte vers des ip reconnues malveillantes.
